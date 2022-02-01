@@ -1,2 +1,2 @@
 # estadistica_descriptiva
-### Este repositorio esá conectado con el notebook de Deepnote
+### Este repositorio está conectado con el notebook de Deepnote
